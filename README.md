@@ -6,6 +6,12 @@
 
 offering 2+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies. Aspiring to combine broad background with strong technical skills to excel as a Front-End Developer.
 
+
+## Education.
+Bachelor degree in computer technology engineering / computer department from al_iraqia univesity (2012 - 2013 ) (2016 - 2017 )
+Honors: cum laude (GPA: 3.6/4.0)
+
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
